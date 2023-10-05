@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+    margin: 40px;
+}
+
+h1 {
+    color: royalblue;
+    font-family: "Arial";
+    margin-bottom: 25px;
+}
+
+p {
+    width: 500px;
+    margin: 15px 0px;
+}
+
+a {
+    color: royalblue;
+}
