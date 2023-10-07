@@ -6,14 +6,22 @@ body {
 h1 {
     color: royalblue;
     font-family: "Arial";
-    margin-bottom: 25px;
+    margin-bottom: 0.5em;
 }
 
 p {
-    width: 500px;
-    margin: 15px 0px;
+    width: 50em;
+    margin: 1em 0em;
 }
 
 a {
     color: royalblue;
+}
+
+tt {
+    font-family: monospace;
+}
+
+.code {
+    margin-left: 2em;
 }
