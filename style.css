@@ -27,5 +27,6 @@ tt {
 }
 
 .col {
+    width: 60em;
     column-count: 3;
 }
