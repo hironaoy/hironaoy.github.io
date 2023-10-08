@@ -25,3 +25,8 @@ tt {
 .code {
     margin-left: 2em;
 }
+
+.col {
+    column-count: 3;
+    width: 50em;
+}
