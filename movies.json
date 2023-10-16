@@ -506,7 +506,7 @@
         "Plot": "Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
         "Language": "English, French, German",
         "Country": "United Kingdom, Netherlands, France, United States",
-        "Awards": "Won 3 Oscars. 65 wins \u0026 233 nominations total",
+        "Awards": "Won 3 Oscars. 66 wins \u0026 233 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
         "Metascore": "94",
         "Type": "movie",
@@ -580,7 +580,7 @@
         "Writer": "Josh Friedman, David Koepp, H.G. Wells",
         "Actors": "Tom Cruise, Dakota Fanning, Tim Robbins",
         "Plot": "An alien invasion threatens the future of humanity. The catastrophic nightmare is depicted through the eyes of one American family fighting for survival.",
-        "Language": "English",
+        "Language": "English, Dutch, Russian, Czech, German",
         "Country": "United States",
         "Awards": "Nominated for 3 Oscars. 16 wins \u0026 49 nominations total",
         "Poster": "https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_SX300.jpg",
@@ -1895,6 +1895,1906 @@
             {
                 "Source": "",
                 "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Final Option",
+        "Year": "1982",
+        "Rated": "R",
+        "Released": "16 Sep 1983",
+        "Runtime": "125 min",
+        "Genre": "Action, Thriller",
+        "Director": "Ian Sharp",
+        "Writer": "George Markstein, Reginald Rose, James Follett",
+        "Actors": "Lewis Collins, Judy Davis, Richard Widmark",
+        "Plot": "It's suspected that a peace/anti-nuke organization in UK has some extremists willing to use terrorism. The action will probably be against an embassy in London. The SAS/Special Air Service try to get the organization infiltrated.",
+        "Language": "English",
+        "Country": "Switzerland, United Kingdom",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmQ2ODhmNWEtZDY4ZS00MmQ0LTgyYWEtOGRiMTViOTk5NjkyXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+        "Metascore": "N/A",
+        "Type": "movie",
+        "DVD": "15 Feb 2017",
+        "BoxOffice": "$2,666,873",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Memento",
+        "Year": "2000",
+        "Rated": "R",
+        "Released": "25 May 2001",
+        "Runtime": "113 min",
+        "Genre": "Mystery, Thriller",
+        "Director": "Christopher Nolan",
+        "Writer": "Christopher Nolan, Jonathan Nolan",
+        "Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+        "Plot": "A man with short-term memory loss attempts to track down his wife's murderer.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 2 Oscars. 57 wins \u0026 59 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Metascore": "83",
+        "Type": "movie",
+        "DVD": "01 Mar 2017",
+        "BoxOffice": "$25,544,867",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "83/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Argo",
+        "Year": "2012",
+        "Rated": "R",
+        "Released": "12 Oct 2012",
+        "Runtime": "120 min",
+        "Genre": "Biography, Drama, Thriller",
+        "Director": "Ben Affleck",
+        "Writer": "Chris Terrio, Tony Mendez, Joshuah Bearman",
+        "Actors": "Ben Affleck, Bryan Cranston, John Goodman",
+        "Plot": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",
+        "Language": "English, Persian, German, Arabic",
+        "Country": "United Kingdom, United States",
+        "Awards": "Won 3 Oscars. 95 wins \u0026 156 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzljNjY3MDYtYzc0Ni00YjU0LWIyNDUtNTE0ZDRiMGExMjZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Metascore": "86",
+        "Type": "movie",
+        "DVD": "03 Dec 2013",
+        "BoxOffice": "$136,025,503",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "86/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Death Train",
+        "Year": "2005",
+        "Rated": "Not Rated",
+        "Released": "16 Mar 2006",
+        "Runtime": "104 min",
+        "Genre": "Action",
+        "Director": "Diethard Küster",
+        "Writer": "Dieter Tarnowski, Gunar Hochheiden",
+        "Actors": "Arnold Vosloo, Mathis Landwehr, Stephan Bieker",
+        "Plot": "Lasko, a soldier-turned-monk, must use his combat skills again when terrorists threaten to unleash a deadly virus on a train full of Christian pilgrims.",
+        "Language": "English",
+        "Country": "Germany",
+        "Awards": "1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGIwN2FiNWYtMzk1NC00NmEzLWE2MzQtNTg3ZmU4NzAzMzFlXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+        "Metascore": "N/A",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "4.3/10"
+            },
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Public Enemies",
+        "Year": "2009",
+        "Rated": "R",
+        "Released": "01 Jul 2009",
+        "Runtime": "140 min",
+        "Genre": "Action, Biography, Crime",
+        "Director": "Michael Mann",
+        "Writer": "Ronan Bennett, Michael Mann, Ann Biderman",
+        "Actors": "Christian Bale, Johnny Depp, Christian Stolte",
+        "Plot": "The Feds try to take down notorious American gangsters John Dillinger, Baby Face Nelson, and Pretty Boy Floyd during a booming crime wave in the 1930s.",
+        "Language": "English",
+        "Country": "United States, Japan",
+        "Awards": "1 win \u0026 14 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGI4YTIxMDQtNDlmNC00ZDJhLWIyZGItM2QyODRiMTEzN2ViXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+        "Metascore": "70",
+        "Type": "movie",
+        "DVD": "10 Dec 2015",
+        "BoxOffice": "$97,104,620",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "68%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "70/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The 15:17 to Paris",
+        "Year": "2018",
+        "Rated": "PG-13",
+        "Released": "09 Feb 2018",
+        "Runtime": "94 min",
+        "Genre": "Biography, Drama, Thriller",
+        "Director": "Clint Eastwood",
+        "Writer": "Dorothy Blyskal, Anthony Sadler, Alek Skarlatos",
+        "Actors": "Alek Skarlatos, Anthony Sadler, Spencer Stone",
+        "Plot": "Three courageous young Americans prevent a terrorist attack on a train bound for Paris.",
+        "Language": "English, French, Arabic, German, Dutch",
+        "Country": "United States",
+        "Awards": "1 win \u0026 3 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NjUzNjYwOV5BMl5BanBnXkFtZTgwMzY1MDM0NDM@._V1_SX300.jpg",
+        "Metascore": "45",
+        "Type": "movie",
+        "DVD": "12 Apr 2018",
+        "BoxOffice": "$36,276,286",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "23%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "45/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Courier",
+        "Year": "1986",
+        "Rated": "R",
+        "Released": "29 Dec 1986",
+        "Runtime": "88 min",
+        "Genre": "Comedy, Drama, Romance",
+        "Director": "Karen Shakhnazarov",
+        "Writer": "Aleksandr Borodyanskiy, Karen Shakhnazarov",
+        "Actors": "Fyodor Dunayevsky, Anastasiya Nemolyaeva, Oleg Basilashvili",
+        "Plot": "The story of a teenager boy in times of the comunism fall in the Soviet Union.",
+        "Language": "Russian",
+        "Country": "Soviet Union",
+        "Awards": "1 win \u0026 2 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmViMDQ4ZjAtNzZhNy00YmY1LThkZmItZGU5MTY1MzQ2NWE2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+        "Metascore": "N/A",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Terminator Salvation",
+        "Year": "2009",
+        "Rated": "PG-13",
+        "Released": "21 May 2009",
+        "Runtime": "115 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "McG",
+        "Writer": "John Brancato, Michael Ferris",
+        "Actors": "Christian Bale, Sam Worthington, Anton Yelchin",
+        "Plot": "In 2018, a mysterious new weapon in the war against the machines, half-human and half-machine, comes to John Connor on the eve of a resistance attack on Skynet. But whose side is he on, and can he be trusted?",
+        "Language": "English, Italian",
+        "Country": "United States, Germany, United Kingdom, Italy",
+        "Awards": "2 wins \u0026 14 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODBlOTJhZjItMGRmYS00YzM1LWFmZTktOTJmNDMyZTBjMjBkXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SX300.jpg",
+        "Metascore": "49",
+        "Type": "movie",
+        "DVD": "22 Apr 2011",
+        "BoxOffice": "$125,322,469",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "33%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "49/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Den of Thieves",
+        "Year": "2018",
+        "Rated": "R",
+        "Released": "19 Jan 2018",
+        "Runtime": "140 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Christian Gudegast",
+        "Writer": "Christian Gudegast, Paul T. Scheuring",
+        "Actors": "Gerard Butler, Pablo Schreiber, O'Shea Jackson Jr.",
+        "Plot": "An elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew clash as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+        "Language": "English, Polynesian, Spanish",
+        "Country": "United States",
+        "Awards": "1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyODcwMDAyM15BMl5BanBnXkFtZTgwOTA4MjIwNDI@._V1_SX300.jpg",
+        "Metascore": "49",
+        "Type": "movie",
+        "DVD": "25 Mar 2018",
+        "BoxOffice": "$44,947,622",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "41%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "49/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Last Samurai",
+        "Year": "2003",
+        "Rated": "R",
+        "Released": "05 Dec 2003",
+        "Runtime": "154 min",
+        "Genre": "Action, Drama",
+        "Director": "Edward Zwick",
+        "Writer": "John Logan, Edward Zwick, Marshall Herskovitz",
+        "Actors": "Tom Cruise, Ken Watanabe, Billy Connolly",
+        "Plot": "An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.",
+        "Language": "English, Japanese",
+        "Country": "United States, New Zealand, Japan",
+        "Awards": "Nominated for 4 Oscars. 20 wins \u0026 67 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzkyNzQ1Mzc0NV5BMl5BanBnXkFtZTcwODg3MzUzMw@@._V1_SX300.jpg",
+        "Metascore": "55",
+        "Type": "movie",
+        "DVD": "01 May 2011",
+        "BoxOffice": "$111,127,263",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "66%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "55/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Matrix",
+        "Year": "1999",
+        "Rated": "R",
+        "Released": "31 Mar 1999",
+        "Runtime": "136 min",
+        "Genre": "Action, Sci-Fi",
+        "Director": "Lana Wachowski, Lilly Wachowski",
+        "Writer": "Lilly Wachowski, Lana Wachowski",
+        "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "Plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "Language": "English",
+        "Country": "United States, Australia",
+        "Awards": "Won 4 Oscars. 42 wins \u0026 52 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Metascore": "73",
+        "Type": "movie",
+        "DVD": "01 Jan 2009",
+        "BoxOffice": "$172,076,928",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "83%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "73/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "15 Minutes of War",
+        "Year": "2019",
+        "Rated": "TV-14",
+        "Released": "02 Aug 2019",
+        "Runtime": "98 min",
+        "Genre": "Action, Drama, History",
+        "Director": "Fred Grivois",
+        "Writer": "Ileana Epsztajn, Fred Grivois, Jérémie Guez",
+        "Actors": "Alban Lenoir, Olga Kurylenko, Sébastien Lalanne",
+        "Plot": "In February 1976 in Djibouti, a school bus was taken hostage at the Somali border. The GIGN is sent on the spot. After 30 hours of tension, a rescue operation is organized.",
+        "Language": "French, English, Somali, Arabic",
+        "Country": "France, Belgium",
+        "Awards": "2 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDZiNDcxYzItN2JhNy00MjgxLTgyNjMtNzdiOWU1Y2MwODYxXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_SX300.jpg",
+        "Metascore": "44",
+        "Type": "movie",
+        "DVD": "05 Aug 2019",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "43%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "44/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Winston Churchill: The Wilderness Years",
+        "Year": "1981",
+        "Rated": "N/A",
+        "Released": "16 Jan 1983",
+        "Runtime": "60 min",
+        "Genre": "Biography, Drama, History",
+        "Director": "N/A",
+        "Writer": "N/A",
+        "Actors": "Robert Hardy, Siân Phillips, Nigel Havers",
+        "Plot": "The story of Winston Churchill's life between 1929, when he lost his cabinet position, and 1939, when he joined Great Britain's War Cabinet - a period he described as the most difficult in his life.",
+        "Language": "English",
+        "Country": "United Kingdom",
+        "Awards": "Nominated for 8 BAFTA 1 win \u0026 8 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1MTk2MzExMTVeQTJeQWpwZ15BbWU2MDkwNDU5OQ@@._V1_SX300.jpg",
+        "Metascore": "N/A",
+        "Type": "series",
+        "DVD": "",
+        "BoxOffice": "",
+        "Production": "",
+        "Website": "",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.5/10"
+            },
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "In the Heart of the Sea",
+        "Year": "2015",
+        "Rated": "PG-13",
+        "Released": "11 Dec 2015",
+        "Runtime": "122 min",
+        "Genre": "Action, Adventure, Biography",
+        "Director": "Ron Howard",
+        "Writer": "Charles Leavitt, Rick Jaffa, Amanda Silver",
+        "Actors": "Chris Hemsworth, Cillian Murphy, Brendan Gleeson",
+        "Plot": "A recounting of a New England whaling ship's sinking by a giant whale in 1820, an experience that later inspired the great novel Moby-Dick.",
+        "Language": "English",
+        "Country": "United States, Australia, Spain",
+        "Awards": "1 win \u0026 6 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzUwODExM15BMl5BanBnXkFtZTgwNjM0MzE4NjE@._V1_SX300.jpg",
+        "Metascore": "47",
+        "Type": "movie",
+        "DVD": "10 Aug 2016",
+        "BoxOffice": "$25,020,758",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "43%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "47/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Iron Man",
+        "Year": "2008",
+        "Rated": "PG-13",
+        "Released": "02 May 2008",
+        "Runtime": "126 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Jon Favreau",
+        "Writer": "Mark Fergus, Hawk Ostby, Art Marcum",
+        "Actors": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",
+        "Plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "Language": "English, Persian, Urdu, Arabic, Kurdish, Hindi, Hungarian",
+        "Country": "United States, Canada",
+        "Awards": "Nominated for 2 Oscars. 22 wins \u0026 73 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+        "Metascore": "79",
+        "Type": "movie",
+        "DVD": "01 Mar 2013",
+        "BoxOffice": "$319,034,126",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "79/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Imitation Game",
+        "Year": "2014",
+        "Rated": "PG-13",
+        "Released": "25 Dec 2014",
+        "Runtime": "114 min",
+        "Genre": "Biography, Drama, Thriller",
+        "Director": "Morten Tyldum",
+        "Writer": "Graham Moore, Andrew Hodges",
+        "Actors": "Benedict Cumberbatch, Keira Knightley, Matthew Goode",
+        "Plot": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",
+        "Language": "English, German",
+        "Country": "United Kingdom, United States",
+        "Awards": "Won 1 Oscar. 49 wins \u0026 165 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_SX300.jpg",
+        "Metascore": "71",
+        "Type": "movie",
+        "DVD": "30 Nov 2016",
+        "BoxOffice": "$91,125,683",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "90%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "71/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The World Is Not Enough",
+        "Year": "1999",
+        "Rated": "PG-13",
+        "Released": "19 Nov 1999",
+        "Runtime": "128 min",
+        "Genre": "Action, Adventure, Thriller",
+        "Director": "Michael Apted",
+        "Writer": "Neal Purvis, Robert Wade, Bruce Feirstein",
+        "Actors": "Pierce Brosnan, Sophie Marceau, Robert Carlyle",
+        "Plot": "James Bond uncovers a nuclear plot while protecting an oil heiress from her former kidnapper, an international terrorist who can't feel pain.",
+        "Language": "English, Russian, Spanish",
+        "Country": "United Kingdom, United States",
+        "Awards": "7 wins \u0026 12 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTZiZGY5MjEtNjU3Yi00OGJmLTlkMDAtOGQ5MTY4NDAxMDE0XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+        "Metascore": "57",
+        "Type": "movie",
+        "DVD": "01 Oct 2016",
+        "BoxOffice": "$126,943,684",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "51%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "57/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Intern",
+        "Year": "2015",
+        "Rated": "PG-13",
+        "Released": "25 Sep 2015",
+        "Runtime": "121 min",
+        "Genre": "Comedy, Drama",
+        "Director": "Nancy Meyers",
+        "Writer": "Nancy Meyers",
+        "Actors": "Robert De Niro, Anne Hathaway, Rene Russo",
+        "Plot": "Seventy-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules ...",
+        "Language": "English, Japanese",
+        "Country": "United States",
+        "Awards": "1 win \u0026 9 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNjE5NjI5OF5BMl5BanBnXkFtZTgwNzYzMzU3NjE@._V1_SX300.jpg",
+        "Metascore": "51",
+        "Type": "movie",
+        "DVD": "22 Dec 2015",
+        "BoxOffice": "$75,764,672",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "59%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "51/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Still Water",
+        "Year": "2015",
+        "Rated": "N/A",
+        "Released": "N/A",
+        "Runtime": "5 min",
+        "Genre": "Short",
+        "Director": "Vicki Kisner",
+        "Writer": "Vicki Kisner",
+        "Actors": "Henry Garrett",
+        "Plot": "N/A",
+        "Language": "English",
+        "Country": "United Kingdom",
+        "Awards": "N/A",
+        "Poster": "N/A",
+        "Metascore": "N/A",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Departed",
+        "Year": "2006",
+        "Rated": "R",
+        "Released": "06 Oct 2006",
+        "Runtime": "151 min",
+        "Genre": "Crime, Drama, Thriller",
+        "Director": "Martin Scorsese",
+        "Writer": "William Monahan, Alan Mak, Felix Chong",
+        "Actors": "Leonardo DiCaprio, Matt Damon, Jack Nicholson",
+        "Plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "Language": "English, Cantonese",
+        "Country": "United States, Hong Kong",
+        "Awards": "Won 4 Oscars. 98 wins \u0026 141 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
+        "Metascore": "85",
+        "Type": "movie",
+        "DVD": "24 Oct 2008",
+        "BoxOffice": "$132,399,394",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "85/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Cape Town",
+        "Year": "2015–",
+        "Rated": "N/A",
+        "Released": "N/A",
+        "Runtime": "N/A",
+        "Genre": "Crime, Thriller",
+        "Director": "N/A",
+        "Writer": "N/A",
+        "Actors": "Trond Espen Seim, Boris Kodjoe, Arnold Vosloo",
+        "Plot": "Police Captain Mat Joubert used to be the best, solve every crime, get every killer. But that was a year ago, before his wife Lara was murdered while working undercover. Mat's been on a downward spiral ever since, haunted by a blu...",
+        "Language": "English",
+        "Country": "Germany",
+        "Awards": "1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODQ2MTY3MzQ2M15BMl5BanBnXkFtZTgwMjU1Njg3NzE@._V1_SX300.jpg",
+        "Metascore": "N/A",
+        "Type": "series",
+        "DVD": "",
+        "BoxOffice": "",
+        "Production": "",
+        "Website": "",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Tomorrow Never Dies",
+        "Year": "1997",
+        "Rated": "PG-13",
+        "Released": "19 Dec 1997",
+        "Runtime": "119 min",
+        "Genre": "Action, Adventure, Thriller",
+        "Director": "Roger Spottiswoode",
+        "Writer": "Bruce Feirstein, Ian Fleming",
+        "Actors": "Pierce Brosnan, Jonathan Pryce, Michelle Yeoh",
+        "Plot": "James Bond sets out to stop a media mogul's plan to induce war between China and the UK in order to obtain exclusive global media coverage.",
+        "Language": "English, German, Danish, Mandarin, Cantonese",
+        "Country": "United Kingdom, United States",
+        "Awards": "6 wins \u0026 10 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTk2ODQxNV5BMl5BanBnXkFtZTcwOTY5MDg0NA@@._V1_SX300.jpg",
+        "Metascore": "52",
+        "Type": "movie",
+        "DVD": "01 Oct 2016",
+        "BoxOffice": "$125,304,276",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "57%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "52/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Pawn Sacrifice",
+        "Year": "2014",
+        "Rated": "PG-13",
+        "Released": "25 Sep 2015",
+        "Runtime": "115 min",
+        "Genre": "Biography, Drama, History",
+        "Director": "Edward Zwick",
+        "Writer": "Steven Knight, Stephen J. Rivele, Christopher Wilkinson",
+        "Actors": "Tobey Maguire, Liev Schreiber, Peter Sarsgaard",
+        "Plot": "Set during the Cold War, American chess prodigy Bobby Fischer finds himself caught between two superpowers and his own struggles as he challenges the Soviet Empire.",
+        "Language": "English, Russian",
+        "Country": "United States",
+        "Awards": "1 win \u0026 1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDYxNTE0OV5BMl5BanBnXkFtZTgwODgyNjU3NTE@._V1_SX300.jpg",
+        "Metascore": "65",
+        "Type": "movie",
+        "DVD": "27 Apr 2016",
+        "BoxOffice": "$2,436,633",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "72%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "65/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Lone Survivor",
+        "Year": "2013",
+        "Rated": "R",
+        "Released": "10 Jan 2014",
+        "Runtime": "121 min",
+        "Genre": "Action, Biography, Drama",
+        "Director": "Peter Berg",
+        "Writer": "Peter Berg, Marcus Luttrell, Patrick Robinson",
+        "Actors": "Mark Wahlberg, Taylor Kitsch, Emile Hirsch",
+        "Plot": "Marcus Luttrell and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.",
+        "Language": "English, Pashtu, Arabic",
+        "Country": "United States, United Kingdom",
+        "Awards": "Nominated for 2 Oscars. 6 wins \u0026 16 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0NTgwOTk5Ml5BMl5BanBnXkFtZTcwMjE3NDc5OQ@@._V1_SX300.jpg",
+        "Metascore": "60",
+        "Type": "movie",
+        "DVD": "23 Sep 2014",
+        "BoxOffice": "$125,095,601",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "75%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "60/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Deepwater Horizon",
+        "Year": "2016",
+        "Rated": "PG-13",
+        "Released": "30 Sep 2016",
+        "Runtime": "107 min",
+        "Genre": "Action, Drama, History",
+        "Director": "Peter Berg",
+        "Writer": "Matthew Michael Carnahan, Matthew Sand, David Barstow",
+        "Actors": "Mark Wahlberg, Kurt Russell, Douglas M. Griffin",
+        "Plot": "A dramatization of the disaster in April 2010, when the offshore drilling rig called the Deepwater Horizon exploded, resulting in the worst oil spill in American history.",
+        "Language": "English",
+        "Country": "United States, Hong Kong, China",
+        "Awards": "Nominated for 2 Oscars. 4 wins \u0026 15 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTEzNDU0OTgxM15BMl5BanBnXkFtZTgwNjA0ODM2OTE@._V1_SX300.jpg",
+        "Metascore": "68",
+        "Type": "movie",
+        "DVD": "22 Mar 2017",
+        "BoxOffice": "$61,433,527",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "82%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "68/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Ted",
+        "Year": "2012",
+        "Rated": "R",
+        "Released": "29 Jun 2012",
+        "Runtime": "106 min",
+        "Genre": "Comedy",
+        "Director": "Seth MacFarlane",
+        "Writer": "Seth MacFarlane, Alec Sulkin, Wellesley Wild",
+        "Actors": "Mark Wahlberg, Mila Kunis, Seth MacFarlane",
+        "Plot": "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear, Ted or his girlfriend, Lori.",
+        "Language": "English, Japanese, Ukrainian",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 13 wins \u0026 28 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_SX300.jpg",
+        "Metascore": "62",
+        "Type": "movie",
+        "DVD": "21 Jul 2015",
+        "BoxOffice": "$218,815,487",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "69%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "62/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Shooter",
+        "Year": "1997",
+        "Rated": "R",
+        "Released": "23 Oct 1997",
+        "Runtime": "91 min",
+        "Genre": "Drama, Western",
+        "Director": "Fred Olen Ray",
+        "Writer": "Tony Giglio",
+        "Actors": "Michael Dudikoff, Randy Travis, Valerie Wildman",
+        "Plot": "Cowboy Michael Atherton intervenes on behalf of a prostitute, Wendy, who is being terrorized by a gang of thugs. He guns down the attackers and shepherds her to safety.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGNmYWNkNTMtMWI1Mi00M2RlLTlmODQtMTc2MjFhMzhiZmRhXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SX300.jpg",
+        "Metascore": "N/A",
+        "Type": "movie",
+        "DVD": "02 Oct 2016",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.0/10"
+            },
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Broken City",
+        "Year": "2013",
+        "Rated": "R",
+        "Released": "18 Jan 2013",
+        "Runtime": "109 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Allen Hughes",
+        "Writer": "Brian Tucker",
+        "Actors": "Mark Wahlberg, Russell Crowe, Catherine Zeta-Jones",
+        "Plot": "In a city rife with injustice, ex-cop Billy Taggart seeks redemption and revenge after being double-crossed by its most powerful figure: Mayor Nicholas Hostetler.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "1 win",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4OTIwODg4Ml5BMl5BanBnXkFtZTcwNjg0MDY1OA@@._V1_SX300.jpg",
+        "Metascore": "49",
+        "Type": "movie",
+        "DVD": "30 Apr 2013",
+        "BoxOffice": "$19,701,164",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "27%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "49/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Ted 2",
+        "Year": "2015",
+        "Rated": "R",
+        "Released": "26 Jun 2015",
+        "Runtime": "115 min",
+        "Genre": "Comedy",
+        "Director": "Seth MacFarlane",
+        "Writer": "Seth MacFarlane, Alec Sulkin, Wellesley Wild",
+        "Actors": "Mark Wahlberg, Seth MacFarlane, Amanda Seyfried",
+        "Plot": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
+        "Language": "English, Ukrainian",
+        "Country": "United States",
+        "Awards": "3 wins \u0026 4 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_SX300.jpg",
+        "Metascore": "48",
+        "Type": "movie",
+        "DVD": "01 Dec 2015",
+        "BoxOffice": "$81,476,385",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "45%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "48/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Mile 22",
+        "Year": "2018",
+        "Rated": "R",
+        "Released": "17 Aug 2018",
+        "Runtime": "94 min",
+        "Genre": "Action, Thriller",
+        "Director": "Peter Berg",
+        "Writer": "Graham Roland, Lea Carpenter",
+        "Actors": "Mark Wahlberg, Lauren Cohan, Iko Uwais",
+        "Plot": "A small team of elite American intelligence officers, part of a top-secret tactical command unit, try to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+        "Language": "English, Russian, Indonesian, Filipino",
+        "Country": "United States, China",
+        "Awards": "1 win",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyODk4OTkxNF5BMl5BanBnXkFtZTgwMzY0MDgzNTM@._V1_SX300.jpg",
+        "Metascore": "38",
+        "Type": "movie",
+        "DVD": "30 Oct 2018",
+        "BoxOffice": "$36,108,758",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "23%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "38/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Saving Private Ryan",
+        "Year": "1998",
+        "Rated": "R",
+        "Released": "24 Jul 1998",
+        "Runtime": "169 min",
+        "Genre": "Drama, War",
+        "Director": "Steven Spielberg",
+        "Writer": "Robert Rodat",
+        "Actors": "Tom Hanks, Matt Damon, Tom Sizemore",
+        "Plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "Language": "English, French, German, Czech",
+        "Country": "United States",
+        "Awards": "Won 5 Oscars. 79 wins \u0026 75 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+        "Metascore": "91",
+        "Type": "movie",
+        "DVD": "27 May 2016",
+        "BoxOffice": "$217,049,603",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "91/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Bourne Supremacy",
+        "Year": "2004",
+        "Rated": "PG-13",
+        "Released": "23 Jul 2004",
+        "Runtime": "108 min",
+        "Genre": "Action, Mystery, Thriller",
+        "Director": "Paul Greengrass",
+        "Writer": "Robert Ludlum, Tony Gilroy",
+        "Actors": "Matt Damon, Franka Potente, Joan Allen",
+        "Plot": "When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume his former life as a trained assassin to survive.",
+        "Language": "English, Russian, German, Italian",
+        "Country": "United States, Germany, Russia, India",
+        "Awards": "5 wins \u0026 22 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTIyMDFmMmItMWQzYy00MjBiLTg2M2UtM2JiNDRhOWE4NjBhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Metascore": "73",
+        "Type": "movie",
+        "DVD": "17 Nov 2015",
+        "BoxOffice": "$176,241,941",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "82%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "73/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Bourne Ultimatum",
+        "Year": "2007",
+        "Rated": "PG-13",
+        "Released": "03 Aug 2007",
+        "Runtime": "115 min",
+        "Genre": "Action, Mystery, Thriller",
+        "Director": "Paul Greengrass",
+        "Writer": "Tony Gilroy, Scott Z. Burns, George Nolfi",
+        "Actors": "Matt Damon, Edgar Ramírez, Joan Allen",
+        "Plot": "Jason Bourne dodges a ruthless C.I.A. official and his Agents from a new assassination program while searching for the origins of his life as a trained killer.",
+        "Language": "English, Russian, French, Spanish, Arabic, Italian",
+        "Country": "United States, Germany, France, Spain",
+        "Awards": "Won 3 Oscars. 29 wins \u0026 42 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+        "Metascore": "85",
+        "Type": "movie",
+        "DVD": "22 Jul 2015",
+        "BoxOffice": "$227,471,070",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "85/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Syriana",
+        "Year": "2005",
+        "Rated": "R",
+        "Released": "09 Dec 2005",
+        "Runtime": "128 min",
+        "Genre": "Drama, Thriller",
+        "Director": "Stephen Gaghan",
+        "Writer": "Stephen Gaghan, Robert Baer",
+        "Actors": "George Clooney, Matt Damon, Amanda Peet",
+        "Plot": "A politically charged epic about the state of the oil industry in the hands of those personally involved in and affected by it.",
+        "Language": "English, Urdu, Arabic, Persian, French, Mandarin",
+        "Country": "United States, United Arab Emirates",
+        "Awards": "Won 1 Oscar. 13 wins \u0026 30 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2FiZmQ4MDgtYzZlOC00ZmI0LThmZDMtMzBhNTVmZDE3ODc3XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+        "Metascore": "76",
+        "Type": "movie",
+        "DVD": "01 Feb 2009",
+        "BoxOffice": "$50,824,620",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "73%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "76/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Green Zone",
+        "Year": "2010",
+        "Rated": "R",
+        "Released": "12 Mar 2010",
+        "Runtime": "115 min",
+        "Genre": "Action, Drama, Thriller",
+        "Director": "Paul Greengrass",
+        "Writer": "Brian Helgeland, Rajiv Chandrasekaran",
+        "Actors": "Matt Damon, Jason Isaacs, Greg Kinnear",
+        "Plot": "Discovering covert and faulty intelligence causes a U.S. Army officer to go rogue as he hunts for Weapons of Mass Destruction in an unstable region.",
+        "Language": "English, Arabic",
+        "Country": "United Kingdom, France, Spain, United States",
+        "Awards": "6 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTA1NDMyNV5BMl5BanBnXkFtZTcwMzUwODY5Mg@@._V1_SX300.jpg",
+        "Metascore": "63",
+        "Type": "movie",
+        "DVD": "23 May 2016",
+        "BoxOffice": "$35,053,660",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "53%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "63/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Martian",
+        "Year": "2015",
+        "Rated": "PG-13",
+        "Released": "02 Oct 2015",
+        "Runtime": "144 min",
+        "Genre": "Adventure, Drama, Sci-Fi",
+        "Director": "Ridley Scott",
+        "Writer": "Drew Goddard, Andy Weir",
+        "Actors": "Matt Damon, Jessica Chastain, Kristen Wiig",
+        "Plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue.",
+        "Language": "English, Mandarin",
+        "Country": "United States, United Kingdom, Hungary, Jordan",
+        "Awards": "Nominated for 7 Oscars. 40 wins \u0026 199 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
+        "Metascore": "80",
+        "Type": "movie",
+        "DVD": "22 Dec 2015",
+        "BoxOffice": "$228,433,663",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "80/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Mission: Impossible",
+        "Year": "1996",
+        "Rated": "PG-13",
+        "Released": "22 May 1996",
+        "Runtime": "110 min",
+        "Genre": "Action, Adventure, Thriller",
+        "Director": "Brian De Palma",
+        "Writer": "Bruce Geller, David Koepp, Steven Zaillian",
+        "Actors": "Tom Cruise, Jon Voight, Emmanuelle Béart",
+        "Plot": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+        "Language": "English, French, Czech",
+        "Country": "United States",
+        "Awards": "3 wins \u0026 17 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3NjI2MjU0Nl5BMl5BanBnXkFtZTgwNDk3ODYxMTE@._V1_SX300.jpg",
+        "Metascore": "59",
+        "Type": "movie",
+        "DVD": "02 May 2008",
+        "BoxOffice": "$180,981,856",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "66%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "59/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "32. The Making of 'Mission: Impossible 2' (2000), Part 1",
+        "Year": "2000",
+        "Rated": "N/A",
+        "Released": "25 Jan 2019",
+        "Runtime": "N/A",
+        "Genre": "Talk-Show",
+        "Director": "N/A",
+        "Writer": "N/A",
+        "Actors": "Charles Hood, Drew Taylor",
+        "Plot": "N/A",
+        "Language": "N/A",
+        "Country": "N/A",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGUzOGQzODgtNzhlZS00NDY2LWJhMjYtMzE2MGFlNDU2MzYyXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SX300.jpg",
+        "Metascore": "N/A",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Mission Impossible 3 - Prologue Scene (re-adapted)",
+        "Year": "2014",
+        "Rated": "N/A",
+        "Released": "N/A",
+        "Runtime": "8 min",
+        "Genre": "Short, Thriller",
+        "Director": "João Castillo",
+        "Writer": "João Castillo",
+        "Actors": "Djaz Jaziri, Mohamed Mahayni, Daniel Vandeberg",
+        "Plot": "N/A",
+        "Language": "English, Spanish, French",
+        "Country": "France",
+        "Awards": "N/A",
+        "Poster": "N/A",
+        "Metascore": "N/A",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Mission: Impossible Ghost Protocol Special Feature - Soaring in Dubai",
+        "Year": "2011",
+        "Rated": "PG-13",
+        "Released": "01 Dec 2011",
+        "Runtime": "3 min",
+        "Genre": "Short",
+        "Director": "Anthony Giacchino",
+        "Writer": "N/A",
+        "Actors": "Brad Bird, Tom Cruise, Paula Patton",
+        "Plot": "Agent Ethan Hunt and his elite team go underground after a bombing implicates the IMF as terrorists. While trying to clear their name, the team uncovers a plot to start a nuclear war. Now to save the world, they must use every hig...",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzYwMTU4NDU3Nl5BMl5BanBnXkFtZTgwMDQ4NjA2MDE@._V1_SX300.jpg",
+        "Metascore": "N/A",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "",
+                "Value": ""
+            },
+            {
+                "Source": "",
+                "Value": ""
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Mission: Impossible - Rogue Nation",
+        "Year": "2015",
+        "Rated": "PG-13",
+        "Released": "31 Jul 2015",
+        "Runtime": "131 min",
+        "Genre": "Action, Adventure, Thriller",
+        "Director": "Christopher McQuarrie",
+        "Writer": "Bruce Geller, Christopher McQuarrie, Drew Pearce",
+        "Actors": "Tom Cruise, Rebecca Ferguson, Jeremy Renner",
+        "Plot": "Ethan and his team take on their most impossible mission yet when they have to eradicate an international rogue organization as highly skilled as they are and committed to destroying the IMF.",
+        "Language": "English, Swedish, German, Russian",
+        "Country": "United States, China",
+        "Awards": "6 wins \u0026 26 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTFmNDA3ZjMtN2Y0MC00NDYyLWFlY2UtNTQ4OTQxMmY1NmVjXkEyXkFqcGdeQXVyNTg4NDQ4NDY@._V1_SX300.jpg",
+        "Metascore": "75",
+        "Type": "movie",
+        "DVD": "01 Jun 2016",
+        "BoxOffice": "$195,042,377",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "75/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Mission: Impossible - Fallout",
+        "Year": "2018",
+        "Rated": "PG-13",
+        "Released": "27 Jul 2018",
+        "Runtime": "147 min",
+        "Genre": "Action, Adventure, Thriller",
+        "Director": "Christopher McQuarrie",
+        "Writer": "Bruce Geller, Christopher McQuarrie",
+        "Actors": "Tom Cruise, Henry Cavill, Ving Rhames",
+        "Plot": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.",
+        "Language": "English, French",
+        "Country": "United States, China, France, Norway, United Kingdom",
+        "Awards": "Nominated for 1 BAFTA Award25 wins \u0026 41 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX300.jpg",
+        "Metascore": "86",
+        "Type": "movie",
+        "DVD": "20 Nov 2018",
+        "BoxOffice": "$220,159,104",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "97%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "86/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Mission: Impossible - Dead Reckoning Part One",
+        "Year": "2023",
+        "Rated": "PG-13",
+        "Released": "11 Jul 2023",
+        "Runtime": "163 min",
+        "Genre": "Action, Adventure, Thriller",
+        "Director": "Christopher McQuarrie",
+        "Writer": "Bruce Geller, Erik Jendresen, Christopher McQuarrie",
+        "Actors": "Tom Cruise, Hayley Atwell, Ving Rhames",
+        "Plot": "Ethan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
+        "Language": "English, French, Italian, Russian",
+        "Country": "United States",
+        "Awards": "1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzFiZjc1YzctMDY3Zi00NGE5LTlmNWEtN2Q3OWFjYjY1NGM2XkEyXkFqcGdeQXVyMTUyMTUzNjQ0._V1_SX300.jpg",
+        "Metascore": "81",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$172,002,022",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "81/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Armageddon",
+        "Year": "1998",
+        "Rated": "PG-13",
+        "Released": "01 Jul 1998",
+        "Runtime": "151 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Michael Bay",
+        "Writer": "Jonathan Hensleigh, J.J. Abrams, Tony Gilroy",
+        "Actors": "Bruce Willis, Billy Bob Thornton, Ben Affleck",
+        "Plot": "After discovering that an asteroid the size of Texas will impact Earth in less than a month, NASA recruits a misfit team of deep-core drillers to save the planet.",
+        "Language": "English, Russian, Indonesian",
+        "Country": "United States",
+        "Awards": "Nominated for 4 Oscars. 15 wins \u0026 40 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGM0NzE2YjgtZGQ4YS00MmY3LTg4ZDMtYjUwNTNiNTJhNTQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Metascore": "42",
+        "Type": "movie",
+        "DVD": "23 Nov 2015",
+        "BoxOffice": "$201,578,182",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "43%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "42/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "The Devil Wears Prada",
+        "Year": "2006",
+        "Rated": "PG-13",
+        "Released": "30 Jun 2006",
+        "Runtime": "109 min",
+        "Genre": "Comedy, Drama",
+        "Director": "David Frankel",
+        "Writer": "Aline Brosh McKenna, Lauren Weisberger",
+        "Actors": "Anne Hathaway, Meryl Streep, Adrian Grenier",
+        "Plot": "A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.",
+        "Language": "English, French",
+        "Country": "United States, France",
+        "Awards": "Nominated for 2 Oscars. 21 wins \u0026 53 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjQ3ZTIzOTItMGNjNC00MWRmLWJlMGEtMjJmMDM5ZDIzZGM3XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
+        "Metascore": "62",
+        "Type": "movie",
+        "DVD": "01 Mar 2013",
+        "BoxOffice": "$124,740,460",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "75%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "62/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "13 Hours",
+        "Year": "2016",
+        "Rated": "R",
+        "Released": "15 Jan 2016",
+        "Runtime": "144 min",
+        "Genre": "Action, Drama, History",
+        "Director": "Michael Bay",
+        "Writer": "Chuck Hogan, Mitchell Zuckoff",
+        "Actors": "John Krasinski, Pablo Schreiber, James Badge Dale",
+        "Plot": "During an attack on a U.S. compound in Libya, a security team struggles to make sense out of the chaos.",
+        "Language": "English, Arabic",
+        "Country": "United States, Malta, Morocco",
+        "Awards": "Nominated for 1 Oscar. 5 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjY0OWVjMGQtNTIzZi00OGU5LWI4N2EtMGU0YzQ4OWM4ZmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Metascore": "48",
+        "Type": "movie",
+        "DVD": "24 May 2016",
+        "BoxOffice": "$52,853,219",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "51%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "48/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Iron Man 2",
+        "Year": "2010",
+        "Rated": "PG-13",
+        "Released": "07 May 2010",
+        "Runtime": "124 min",
+        "Genre": "Action, Sci-Fi",
+        "Director": "Jon Favreau",
+        "Writer": "Justin Theroux, Stan Lee, Don Heck",
+        "Actors": "Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow",
+        "Plot": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+        "Language": "English, French, Russian",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 7 wins \u0026 45 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGVkNDAyM2EtYzYxYy00ZWUxLTgwMjgtY2VmODE5OTk3N2M5XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+        "Metascore": "57",
+        "Type": "movie",
+        "DVD": "03 May 2013",
+        "BoxOffice": "$312,433,331",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "72%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "57/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Iron Man 3",
+        "Year": "2013",
+        "Rated": "PG-13",
+        "Released": "03 May 2013",
+        "Runtime": "130 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Shane Black",
+        "Writer": "Drew Pearce, Shane Black, Stan Lee",
+        "Actors": "Robert Downey Jr., Guy Pearce, Gwyneth Paltrow",
+        "Plot": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 20 wins \u0026 63 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg",
+        "Metascore": "62",
+        "Type": "movie",
+        "DVD": "08 Apr 2015",
+        "BoxOffice": "$409,013,994",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "79%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "62/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Avengers: Age of Ultron",
+        "Year": "2015",
+        "Rated": "PG-13",
+        "Released": "01 May 2015",
+        "Runtime": "141 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon, Stan Lee, Jack Kirby",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+        "Plot": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+        "Language": "English, Korean",
+        "Country": "United States",
+        "Awards": "8 wins \u0026 52 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+        "Metascore": "66",
+        "Type": "movie",
+        "DVD": "08 Sep 2015",
+        "BoxOffice": "$459,005,868",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "76%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "66/100"
+            }
+        ],
+        "Recommend": false
+    },
+    {
+        "Title": "Captain America: Civil War",
+        "Year": "2016",
+        "Rated": "PG-13",
+        "Released": "06 May 2016",
+        "Runtime": "147 min",
+        "Genre": "Action, Sci-Fi",
+        "Director": "Anthony Russo, Joe Russo",
+        "Writer": "Christopher Markus, Stephen McFeely, Joe Simon",
+        "Actors": "Chris Evans, Robert Downey Jr., Scarlett Johansson",
+        "Plot": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+        "Language": "English, German, Xhosa, Russian, Romanian",
+        "Country": "United States",
+        "Awards": "16 wins \u0026 73 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SX300.jpg",
+        "Metascore": "75",
+        "Type": "movie",
+        "DVD": "02 Sep 2016",
+        "BoxOffice": "$408,084,349",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "75/100"
             }
         ],
         "Recommend": false
