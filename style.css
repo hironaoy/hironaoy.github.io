@@ -29,6 +29,7 @@ h1 {
     border: 1px solid;
     margin: 0px 5px;
     margin-top: 10px;
+    display: flex;    
 }
 
 p {
@@ -48,6 +49,10 @@ p {
     margin: auto;
     border-right: 1px solid;
     border-left: 1px solid;    
+}
+
+.right {
+    text-align: right;
 }
 
 .menu {
