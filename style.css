@@ -22,16 +22,22 @@ a {
 .intro {
     font-size: 15px;
     font-style: italic;
+    line-height: 22px;
+}
+
+img {
+    width: 150px;
+    height: 200px
 }
 
 .page {
-    width: 800px;
+    width: 1000px;
     margin: auto;
     display: flex;
 }
 
 .content {
-    width: 600px;
+    width: 1000px;
     height: 600px;
     padding: 0px 20px;
 }
